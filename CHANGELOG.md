@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+## [0.16.5-1] - 2024-09-03
+
+- Fixes memory leak with the JWKS cache.
 
 ## [0.16.5] - 2023-11-1
 
